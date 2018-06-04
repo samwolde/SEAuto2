@@ -5,3 +5,5 @@ It asks a user to enter username and password, then logs into the user's faceboo
 Language: Java
 
 Run facebook.java
+
+By: Samuel Woldemariam    ATR/4862/08
